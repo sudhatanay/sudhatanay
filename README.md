@@ -1,6 +1,6 @@
 ### Hi there!
 
-##### My name is Sudha Tanay Doddi, and I am undergraduate student studing CS in IIIT Hyderabad. I am also pursuing a masters in Computational Humanities and have a wide set of interests including UI/UX Design, ML and Graphic Design.
+#### My name is Sudha Tanay Doddi, and I am undergraduate student studing CS in IIIT Hyderabad. I am also pursuing a masters in Computational Humanities and have a wide set of interests including UI/UX Design, ML and Graphic Design.
 
 <!--
 **sudhatanay/sudhatanay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
